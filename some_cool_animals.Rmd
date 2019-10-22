@@ -17,6 +17,7 @@ The organization of this document probably seems strange. That's because it's pa
 ### Cool animal fun facts {.tabset .tabset-fade}
 
 #### Great white sharks
+- anything that exists below this 4th order heading will be in the tab, and then the next 4th order heading is the next tab
 
 ![Great white at Seal Island, South Africa. Photographer: Chris Brunskill Ltd/Corbis News via Getty Images ](img/great_white.jpg)
 
@@ -45,6 +46,12 @@ The organization of this document probably seems strange. That's because it's pa
 - Pika are of order *Lagomorpha* (which also includes rabbits)
 - Pika live in high altitude talus slopes
 - American pika are already disappearing from the Sierra Nevada
+
+#### Ringtail Cats
+
+![Photo: Courtesy of the VA Zoo](img/ringtail_cat.jpg)
+
+3 # signs ends the tabs
 
 ###
 
